@@ -1,0 +1,10 @@
+{
+  "name": "uuid",
+  "repo": "gjohnson/uuid",
+  "description": "generates a v4 uuid",
+  "version": "0.0.1",
+  "keywords": ["uuid", "id", "random"],
+  "scripts": [
+    "index.js"
+  ]
+}
